@@ -2,6 +2,7 @@
 This is basically a news website app developed in #React JS
 
 Link for the Website: https://joelrobin18.github.io/NewsApp_Website/
+
 This is mainly a login page which displays the news
 News are taken using API from NYTimes
 
